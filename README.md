@@ -26,6 +26,8 @@ So for know its going to be manual captcha untill Captcha services find a bypass
   
   ---
   
+  Make sure proxy.txt in the same program directory or tool wont work.
+  
   <h4> Contact Me: Flex#8629 <h4>
     
 ![alt text](https://cdn.discordapp.com/attachments/899424300120027216/940392757464277063/out.png)    
