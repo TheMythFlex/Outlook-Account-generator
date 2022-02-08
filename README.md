@@ -30,7 +30,7 @@ So for know its going to be manual captcha untill Captcha services find a bypass
   
   ---
   
-  Note: Fuck i just realized i misspelled Outlook, That's what happene's when u stay all night coding lol.
+  Note: Fuck i just realized i misspelled Outlook, That's what happene's when u stay up all night coding lol.
   
   
   <h4> Contact Me: Flex#8629 <h4>
