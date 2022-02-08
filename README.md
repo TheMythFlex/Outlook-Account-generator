@@ -26,7 +26,12 @@ So for know its going to be manual captcha untill Captcha services find a bypass
   
   ---
   
-  Make sure proxy.txt in the same program directory or tool wont work.
+  Make sure Proxy.txt/Chromedriver in the same program directory or tool wont work.
+  
+  ---
+  
+  Note: Fuck i just realized i misspelled Outlook, That's what happene's when u stay all night coding lol.
+  
   
   <h4> Contact Me: Flex#8629 <h4>
     
