@@ -5,7 +5,7 @@ This Program Generates OutLook Emails Using Selenium
 ---
 <h4>📕 Importent</h4>
 
-Unfortunately this tool dosent have auto captcha i tried including it but turns out Microsoft added new protection against Token captcha's.
+Unfortunately this tool dosen't have auto captcha i tried including it but turns out Microsoft added new protection against Token captcha's.
 
 I have talked to [2captcha.com](https://2captcha.com/enterpage) administrator about this, this is what he said, 
 
