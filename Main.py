@@ -64,6 +64,8 @@ print(colored("""
 openproxyfile = open("proxy.txt", "r")
 proxies = openproxyfile.readlines()
 proxycount = 0
+for line in proxies:
+    proxycount += 1
 
 def  Main():
     global account_counter, proxycount, driver, failed_accounts
@@ -74,15 +76,10 @@ def  Main():
             first_name = names.get_first_name(gender='male')
             last_name = names.get_last_name()
 
-            #settings = initialize_vpn("united states")  #use this only if u have NORDVPN installed and a premuim account
-            #rotate_VPN(settings)  # #use this only if u have NORDVPN installed and a premium account
             print("\n")
-
-            for line in proxies:
-                proxycount += 1
-
             ctypes.windll.kernel32.SetConsoleTitleW("Outlook Account Gen - Made by Flex#8629 | Accounts Created: {} | Accounts Failed {}".format(account_counter,failed_accounts))
-
+            proxytouse = proxies[random.randint(1, proxycount - 1)]
+            PROXY = proxytouse
             chrome_options = webdriver.ChromeOptions()
             chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])
             prefs = {"profile.default_content_setting_values.notifications": 2}
@@ -100,7 +97,7 @@ def  Main():
             chrome_options.add_argument("window-size=500,500")
             logger = logging.getLogger('selenium.webdriver.remote.remote_connection')
             logger.setLevel(logging.WARNING)
-            #chrome_options.add_argument('--proxy-server=%s' % PROXY) < remove # to use proxy >
+            chrome_options.add_argument('--proxy-server=%s' % PROXY)
 
             driver = webdriver.Chrome(options=chrome_options)
 
