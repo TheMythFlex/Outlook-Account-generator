@@ -15,9 +15,6 @@ This Program Generates OutLook Emails Using Selenium
   Can show proof of it working and making accounts 
   Contact me on discord : Flex#8629
   
-  Note: Fuck i just realized i misspelled Outlook, That's what happene's when u stay up all night coding lol.
-  
-  
   <h4> Contact Me: Flex#8629 <h4>
     
  
