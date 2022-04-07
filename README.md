@@ -24,7 +24,10 @@ This Program Generates OutLook Emails Using Selenium
     
  
 
-https://user-images.githubusercontent.com/93522281/162330967-224b4ddb-3d5a-447c-9eef-49ce7bb99f37.mp4
+https://user-images.githubusercontent.com/93522281/162331059-b75c2f64-2336-4728-a8a2-e821ccd118fb.mp4
+
+
+
 
 
     
