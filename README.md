@@ -20,7 +20,9 @@ This Program Generates OutLook Emails Using Selenium
   
   <h4> Contact Me: Flex#8629 <h4>
     
-![alt text](https://cdn.discordapp.com/attachments/899424300120027216/940392757464277063/out.png)    
+[[video show case])](https://cdn.discordapp.com/attachments/899366202806251581/954776372285419530/vid_out.mp4)    
+    
+ 
     
 
 
