@@ -8,7 +8,7 @@ This Program Generates OutLook Emails Using Selenium
 <!-- BLOG-POST-LIST:START -->
   - Fast asf
   - Auto captcha 
-  - Thousands of email in couple of hours 
+  - Thousands of emails in couple of hours 
   
   Source For Sale $150
   <!-- BLOG-POST-LIST:EnD -->
