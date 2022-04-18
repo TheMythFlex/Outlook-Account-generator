@@ -1,6 +1,6 @@
-# Outlook-Account-Generator
+# Outlook/Xbox-Account-Generator
 
-This Program Generates OutLook Emails Using Selenium
+This Program Generates Outlook/Xbox Accounts Using Selenium
 ---
 
 <h4> 🔑 Features <h4> 
@@ -9,19 +9,22 @@ This Program Generates OutLook Emails Using Selenium
   - Fast asf
   - Auto captcha 
   - Thousands of emails in couple of hours 
+  - Create Xbox Account
+<!-- BLOG-POST-LIST:EnD -->
   
-  Source For Sale $150
-  <!-- BLOG-POST-LIST:EnD -->
-  Can show proof of it working and making accounts 
-  Contact me on discord : Flex#8629
+<h4> 🔑 Keys <h4>   
   
-  <h4> Contact Me: Flex#8629 <h4>
-    
- 
-    
- 
+<!-- BLOG-POST-LIST:START -->
+  - Lifetime key $85
+  - Month key $45 
+  - Week key $14
+  - One-Day Key $7
+<!-- BLOG-POST-LIST:EnD -->  
 
-https://user-images.githubusercontent.com/93522281/162331059-b75c2f64-2336-4728-a8a2-e821ccd118fb.mp4
+  
+---  
+  
+[![Video Showcase](https://cdn.discordapp.com/attachments/899424300120027216/965476432925032478/unknown.png)](https://www.youtube.com/watch?v=7TaNnuFbask "Everything Is AWESOME")
 
 
 
