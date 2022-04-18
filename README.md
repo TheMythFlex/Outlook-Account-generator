@@ -24,6 +24,8 @@ This Program Generates Outlook/Xbox Accounts Using Selenium
   
 ---  
   
+  Click on img to watch video showcase
+  
 [![Video Showcase](https://cdn.discordapp.com/attachments/899424300120027216/965476432925032478/unknown.png)](https://www.youtube.com/watch?v=7TaNnuFbask "Everything Is AWESOME")
 
 
