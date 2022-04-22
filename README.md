@@ -15,10 +15,10 @@ This Program Generates Outlook/Xbox Accounts Using Selenium
 <h4> 🔑 Keys <h4>   
   
 <!-- BLOG-POST-LIST:START -->
-  - Lifetime key $85
-  - Month key $45 
-  - Week key $14
-  - One-Day Key $7
+  - Lifetime key $35
+  - Month key $20 
+  - Week key $10
+  - One-Day Key $5
 <!-- BLOG-POST-LIST:EnD -->  
 
   
